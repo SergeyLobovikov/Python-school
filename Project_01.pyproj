@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1d312bed-7095-4897-bd93-7846e2db57ea</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Project_01.py</StartupFile>
+    <StartupFile>Homework_01.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
